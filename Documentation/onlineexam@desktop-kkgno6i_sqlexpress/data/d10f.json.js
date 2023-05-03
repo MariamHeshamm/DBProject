@@ -1,0 +1,1 @@
+window.repositoryObject = {"functions":[{"id":"f305","name":"Create_TrueAndFalse","type":"FUNCTION","subtype":"FUNCTION","is_user_defined":false,"custom_fields":{"Sample field: Status":{"value":null,"type":"LIST_CLOSED"}}}],"object_id":"d10f","title_prefix":null,"custom_fields":[]};
